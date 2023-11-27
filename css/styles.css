@@ -1,0 +1,93 @@
+.social-icons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.social-icons a {
+    text-decoration: none;
+    display: inline-block;
+    padding: 2px 2px;
+    border-right: 1px solid #cccccc;
+}
+.social-icons a:last-child {
+    border-right: none;
+}
+.social-icons span {
+    margin: 0 2px;
+}
+.social-icons img {
+    width: auto;
+    height: auto;
+    max-width: 100%;
+    margin: 0 10px;
+    transition: opacity 0.3s;
+}
+.social-icons img:hover {
+    opacity: 0.7;
+}
+footer {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+.nav-link:hover {
+    font-weight: bold;
+    color: red;
+}
+.navbar-brand:hover {
+    font-weight: bold;
+    color: red;
+}
+div {
+    color: black;
+}
+body {
+    font-family: Georgia, Cambria, "Times New Roman", Times, serif;
+    font-size: 18px;
+    text-align: justify;
+}
+.navbar-brand {
+    font-size: 22px;
+}
+nav {
+    font-family: 'Pathway Gothic One', Arial, sans-serif;
+}
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    background-color: black;
+}
+.carousel-caption.d-none.d-md-block.h5 {
+    background-color: black;
+}
+.carousel-indicators [data-bs-target] {
+    background-color: black;
+}
+.carousel-caption {
+    color: black;
+}
+.carousel {
+    margin: 0;
+    padding: 0;
+}
+.container {
+    max-width: auto;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+.tile img {
+    max-width: 100%;
+    height: auto;
+}
+.container1 {
+    max-width: auto;
+    margin: 0 auto;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+p {
+    font-family: Georgia, Cambria, "Times New Roman", Times, serif;
+    font-size: 18px;
+    text-align: justify;
+}
