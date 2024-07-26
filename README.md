@@ -7,6 +7,7 @@ Welcome to the DareBee Single Page Application (SPA) built with AngularJS. This 
 - [Overview](#overview)
 - [Features](#features)
 - [Installation](#installation)
+- [Live Demo](#live-demo)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
@@ -53,6 +54,10 @@ To set up the DareBee SPA locally, follow these steps:
 4. **Open the Application:**
 
     Open `index.html` in your browser or use a local server to serve the files.
+
+## Live Demo
+
+Check out the live demo of the DareBee SPA at: [Live Demo](https://darebee.netlify.app/)
 
 ## Usage
 
