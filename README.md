@@ -80,21 +80,37 @@ To set up the DareBee SPA locally, follow these steps:
 ## Folder Structure
 
 darebee-spa-angularjs/
+
 │
+
 ├── css/
+
 │ └── styles.css # Custom CSS for styling
+
 │
+
 ├── img/
+
 │ ├── workout1.jpg # Workout images
+
 │ ├── workout2.jpg
+
 │ └── (other images)
+
 │
+
 ├── index.html # Main entry point for the application
+
 ├── challenges.html # Challenges page
+
 ├── homepage.html # Homepage
+
 ├── index.js # AngularJS application logic
+
 ├── nutrition.html # Nutrition page
+
 ├── programs.html # Programs page
+
 └── workouts.html # Workouts page
 
 
@@ -126,7 +142,3 @@ Contributions are welcome! If you have suggestions or improvements, please submi
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to adapt and modify this README as needed to fit your specific project and needs!
