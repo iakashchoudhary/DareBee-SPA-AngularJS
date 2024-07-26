@@ -81,13 +81,9 @@ To set up the DareBee SPA locally, follow these steps:
 
 darebee-spa-angularjs/
 
-│
-
 ├── css/
 
 │ └── styles.css # Custom CSS for styling
-
-│
 
 ├── img/
 
@@ -96,8 +92,6 @@ darebee-spa-angularjs/
 │ ├── workout2.jpg
 
 │ └── (other images)
-
-│
 
 ├── index.html # Main entry point for the application
 
