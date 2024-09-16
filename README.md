@@ -1,3 +1,6 @@
+![Darebee Banner](https://github.com/user-attachments/assets/48f1c169-bdfa-4ca1-aff7-be8fd3b49a54)
+
+
 # DareBee-SPA-AngularJS
 Welcome to the DareBee Single Page Application (SPA) built with AngularJS. This application provides a comprehensive fitness platform with various sections including workouts, programs, nutrition, and fitness challenges.
                 
